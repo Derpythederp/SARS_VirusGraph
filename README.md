@@ -14,4 +14,4 @@ Alternatively you can use the requirements.txt I have provided:
 <a href="https://github.com/Derpythederp/SARS_VirusGraph/blob/master/assets/2003_SARS_First96.png"><img src="assets/2003_SARS_First96.png" alt="2003 SARS-Infected and Mortality in the First 96 Days" width=90%>
 </a>
 
-<a href="#top" style="text-decoration:underline;font-size:30px">Back to top</a>
+<a href="#top" style="text-decoration:underline;font-size:45px">Back to top</a>
